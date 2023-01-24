@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @YarivSwid
-- 👀 I’m interested in developing, AI, analyzing data
-- 🌱 I’m currently learning Industrial engineering
-- 💞️ I’m looking to collaborate on projects/ positions at high tech companies
 - 📫 How to reach me: via linkedin 
 
 <!---
